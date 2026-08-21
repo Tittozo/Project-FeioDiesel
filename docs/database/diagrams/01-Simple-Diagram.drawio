@@ -119,7 +119,7 @@
           <mxGeometry height="40" width="100" x="510" y="610" as="geometry" />
         </mxCell>
         <mxCell id="7ybHn4K402WUR0sqSshd-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="pode gerar" vertex="1">
-          <mxGeometry height="30" width="60" x="630" y="215" as="geometry" />
+          <mxGeometry height="30" width="60" x="600" y="210" as="geometry" />
         </mxCell>
         <mxCell id="7ybHn4K402WUR0sqSshd-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="possui" vertex="1">
           <mxGeometry height="30" width="60" x="590" y="510" as="geometry" />
