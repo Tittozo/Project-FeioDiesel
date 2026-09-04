@@ -44,62 +44,46 @@ O sistema deverá armazenar as informações do cliente necessárias para contat
 
 O sistema deverá permitir que o cliente realize uma solicitação de montagem mesmo que não possua um caminhão.
 
-## RF12 — Informações do caminhão
-
-Quando o cliente possuir um caminhão, o sistema deverá permitir o registro das informações necessárias para auxiliar na identificação e análise de compatibilidade do motor.
-
-## RF13 — Identificação do veículo
+## RF12 — Identificação do veículo
 
 O sistema deverá permitir o registro do número de chassi/VIN do caminhão.
 
-## RF14 — Informações técnicas do veículo
+## RF13 — Informações técnicas do veículo
 
 O sistema deverá permitir o registro de informações técnicas do caminhão, incluindo modelo ou nomenclatura, ano, geração, configuração do bloco e cilindros, sistema de injeção e sistema de emissões.
 
-## RF15 — Motor anterior
-
-Quando necessário para análise da solicitação, o sistema deverá permitir o registro do número de série do motor anteriormente utilizado no caminhão.
-
-## RF16 — Análise da solicitação
-
-O sistema deverá permitir que a FeioDiesel analise as informações fornecidas pelo cliente antes da confirmação da montagem.
-
-## RF17 — Confirmação do agendamento
+## RF14 — Confirmação do agendamento
 
 O sistema deverá permitir que a FeioDiesel confirme a solicitação após a análise das informações e o contato com o cliente.
 
-## RF18 — Prazo de montagem e entrega
+## RF15 — Prazo de montagem e entrega
 
 O sistema deverá permitir o registro das informações relacionadas ao prazo estimado de montagem e deslocamento do motor.
 
-## RF19 — Acompanhamento do processo
+## RF16 — Acompanhamento do processo
 
 O sistema deverá permitir o acompanhamento do estado da solicitação, desde o recebimento até a conclusão do processo de montagem.
 
-## RF20 — Área administrativa
-
-O sistema deverá possuir uma área administrativa restrita para gerenciamento das informações do sistema.
-
-## RF21 — Autenticação administrativa
+## RF17 — Autenticação administrativa
 
 O sistema deverá exigir autenticação para acesso à área administrativa.
 
-## RF22 — Gerenciamento de motores
+## RF18 — Gerenciamento de motores
 
 O administrador deverá poder cadastrar, visualizar, alterar e remover informações dos modelos de motores disponibilizados no sistema.
 
-## RF23 — Gerenciamento do conteúdo educacional
+## RF19 — Gerenciamento do conteúdo educacional
 
 O administrador deverá poder cadastrar, alterar e organizar os componentes e conteúdos educacionais relacionados aos motores.
 
-## RF24 — Gerenciamento de agendamentos
+## RF20 — Gerenciamento de agendamentos
 
 O administrador deverá poder visualizar e gerenciar as solicitações de agendamento realizadas pelos clientes.
 
-## RF25 — Gerenciamento de clientes
+## RF21 — Gerenciamento de clientes
 
 O administrador deverá poder visualizar e administrar os cadastros de clientes necessários ao funcionamento do sistema.
 
-## RF26 — Gerenciamento de informações
+## RF22 — Gerenciamento de informações
 
 O administrador deverá poder modificar informações apresentadas no site sem necessidade de alterar diretamente o código-fonte da aplicação.
