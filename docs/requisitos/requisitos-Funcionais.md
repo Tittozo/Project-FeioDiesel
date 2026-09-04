@@ -60,50 +60,46 @@ O sistema deverá permitir o registro de informações técnicas do caminhão, i
 
 Quando necessário para análise da solicitação, o sistema deverá permitir o registro do número de série do motor anteriormente utilizado no caminhão.
 
-## RF16 — Recomendação de motor
-
-O sistema deverá utilizar as informações disponíveis do caminhão para auxiliar na identificação e recomendação de um modelo de motor compatível.
-
-## RF17 — Análise da solicitação
+## RF16 — Análise da solicitação
 
 O sistema deverá permitir que a FeioDiesel analise as informações fornecidas pelo cliente antes da confirmação da montagem.
 
-## RF18 — Confirmação do agendamento
+## RF17 — Confirmação do agendamento
 
 O sistema deverá permitir que a FeioDiesel confirme a solicitação após a análise das informações e o contato com o cliente.
 
-## RF19 — Prazo de montagem e entrega
+## RF18 — Prazo de montagem e entrega
 
 O sistema deverá permitir o registro das informações relacionadas ao prazo estimado de montagem e deslocamento do motor.
 
-## RF20 — Acompanhamento do processo
+## RF19 — Acompanhamento do processo
 
 O sistema deverá permitir o acompanhamento do estado da solicitação, desde o recebimento até a conclusão do processo de montagem.
 
-## RF21 — Área administrativa
+## RF20 — Área administrativa
 
 O sistema deverá possuir uma área administrativa restrita para gerenciamento das informações do sistema.
 
-## RF22 — Autenticação administrativa
+## RF21 — Autenticação administrativa
 
 O sistema deverá exigir autenticação para acesso à área administrativa.
 
-## RF23 — Gerenciamento de motores
+## RF22 — Gerenciamento de motores
 
 O administrador deverá poder cadastrar, visualizar, alterar e remover informações dos modelos de motores disponibilizados no sistema.
 
-## RF24 — Gerenciamento do conteúdo educacional
+## RF23 — Gerenciamento do conteúdo educacional
 
 O administrador deverá poder cadastrar, alterar e organizar os componentes e conteúdos educacionais relacionados aos motores.
 
-## RF25 — Gerenciamento de agendamentos
+## RF24 — Gerenciamento de agendamentos
 
 O administrador deverá poder visualizar e gerenciar as solicitações de agendamento realizadas pelos clientes.
 
-## RF26 — Gerenciamento de clientes
+## RF25 — Gerenciamento de clientes
 
 O administrador deverá poder visualizar e administrar os cadastros de clientes necessários ao funcionamento do sistema.
 
-## RF27 — Gerenciamento de informações
+## RF26 — Gerenciamento de informações
 
 O administrador deverá poder modificar informações apresentadas no site sem necessidade de alterar diretamente o código-fonte da aplicação.
