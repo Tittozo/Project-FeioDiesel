@@ -45,7 +45,7 @@ Sistema de injeção;
 Sistema de emissões.
 
 RN11 — Motor anterior
-O número de série do motor anteriormente utilizado poderá ser informado para auxiliar na análise do veículo.
+Quando disponível, o cliente poderá informar o número de série do motor anteriormente utilizado no caminhão, mantendo essa informação registrada para consulta durante o processo de análise da solicitação.
 
 Motores
 
